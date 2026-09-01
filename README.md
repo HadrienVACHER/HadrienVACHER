@@ -1,7 +1,7 @@
 # Hadrien Vacher  
 
 📍 Paris, France / Singapore  
-📧 [hadrien.vacher@ensae.fr](mailto:hadrien.vacher@ensae.fr) | 🔗 [LinkedIn](https://linkedin.com/in/hadrien-vacher-497211323/)
+📧 [hadrien.vacher@ensae.fr](mailto:hadrien.vacher@ensae.fr)
 
 ---
 
@@ -21,19 +21,16 @@
 - **Nanyang Technological University (CCDS)** | *ML Research Intern* — Singapore (07.2026–Present)
   - Investigated diffusion-based generative models and state-space models with particle filters to sample from un-normalized distributions and compute normalizing constants.
   - Engineered novel loss functions integrating energy information (log target density) to overcome mode-dropping and proportion recovery failures inherent to gradient-only approaches like Adjoint Sampling.
-  - ↳ **Impact:** Establishing theoretical guarantees and empirical benchmarks for these new inference methods, targeting publication at ICML.
 
 - **INRIA (ALMAnaCH)** | *ML Researcher* — Paris, France (09.2025–06.2026)
   - Fine-tuned a BERT language model for a 6-label multi-class logistic regression task on the LIAR dataset to classify fake news, and analyzed its latent space to learn sociodemographic biases (religion, race).
   - Implemented statistical projections to erase dependencies between the model's embeddings and sensitive attributes.
-  - ↳ **Impact:** Reduced the predictability of sensitive traits by 22 percentage points while perfectly preserving the fake news detection accuracy (Δ < 1%).
   - 🔗 **[View Repository](https://github.com/HadrienVACHER/Sociodemographic_debiasing_influence_on_fake_news_detection
 )**
 
 - **École Polytechnique – CNRS (CMAP)** | *ML Research Intern* — Paris, France (06.2025–09.2025)
   - Implemented flow and diffusion models with various probability paths and prior distributions.  
   - Simulated copulas and financial data to model heavy tails.  
-  - ↳ **Impact:** Evaluated model performance using MSLE and Kendall’s tau, achieving a 10× lower error than a GAN-based approach from prior research.  
   - 🔗 **[View Repository](https://github.com/HadrienVACHER/Flow_and_Diffusion)**
 
 ---
@@ -43,13 +40,11 @@
 - **Empirical Forecasting of Agricultural ETF Returns** | *Python (2025)*
   - Engineered domain-specific biological features (Heat Stress, Winter Kill) by processing high-resolution weather data and USDA reports to model supply-side shocks for grain ETFs (CORN, WEAT, SOYB).
   - Implemented a Multi-Target XGBoost pipeline with walk-forward backtesting.
-  - ↳ **Impact:** Achieved an out-of-sample Sharpe Ratio of 1.62, significantly outperforming autoregressive and linear benchmarks.
   - 🔗 **[View Repository](https://github.com/HadrienVACHER/Agricultural_ETF_Returns_Forecasting)**
 
 - **QRT Data Challenge: Survival Prediction in Myeloid Leukemia** | *Python (2025)*
   - Engineered data based on a European LeukemiaNet report and tuned hyperparameters with Optuna for RandomSurvivalForest, CoxnetSurvivalAnalysis and GradientBoostingSurvivalAnalysis.
   - Ensembled models using weighted and rank averaging.
-  - ↳ **Impact:** Ranked Top 5%.
   - 🔗 **[View Repository](https://github.com/HadrienVACHER/QRT_ENS_2026)**
 
 ---
