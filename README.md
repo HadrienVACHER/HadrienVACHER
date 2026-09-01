@@ -58,4 +58,3 @@
 
 - **Languages:** French (Native), English (C1 – fluent), Spanish (B2 – intermediate)  
 - **Programming:** Python (NumPy, Pandas, Seaborn, Scikit-learn, PyTorch, JAX), R, SQL, LaTeX  
-- **Interests:** Water-polo (National level), Kite-surf, Competitive Gaming (Overwatch Top 500 EU)
