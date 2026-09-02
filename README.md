@@ -45,7 +45,7 @@
 - **QRT Data Challenge: Survival Prediction in Myeloid Leukemia** | *Python (2025)*
   - Engineered data based on a European LeukemiaNet report and tuned hyperparameters with Optuna for RandomSurvivalForest, CoxnetSurvivalAnalysis and GradientBoostingSurvivalAnalysis.
   - Ensembled models using weighted and rank averaging.
-  - 🔗 **[View Repository](https://github.com/HadrienVACHER/QRT_ENS_2026)**
+  - 🔗 **[View Repository](https://github.com/HadrienVACHER/Data_challenge_QRT)**
 
 ---
 
